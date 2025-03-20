@@ -1,5 +1,5 @@
 ## welcome to my profile! 🌱
-⋅˚₊‧ ଳ ‧₊˚ ⋅﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌₊ ⊹  
+𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟  
   
 ദ്ദി ˉ͈̀꒳ˉ͈́ )✧  java, python, c#, js, html, css  
 (¬_¬") ...  typescript, react  (in progress)   
