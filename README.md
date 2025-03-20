@@ -3,6 +3,6 @@
 ദ്ദി ˉ͈̀꒳ˉ͈́ )✧  java, python, c#, js, html, css  
 (¬_¬") ...  typescript, react  (in progress)   
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khushikhan0&theme=tokyonight&fire=fec8d8&ring=a8dadc&currStreakLabel=ffcad4)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khushikhan0&layout=compact&theme=tokyonight)
 
 ![Cute Divider](https://media.tenor.com/6qn7evLIVqUAAAAj/cats-divider.gif)![Cute Divider](https://media.tenor.com/6qn7evLIVqUAAAAj/cats-divider.gif)
