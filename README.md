@@ -3,4 +3,4 @@
 know: java, python, c#, js, html, css
 in progress: typescript, react
 
-https://tenor.com/bnkRC.gif
+![Cute Divider](https://tenor.com/bnkRC.gif)
