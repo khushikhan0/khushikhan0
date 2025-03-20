@@ -3,4 +3,4 @@
 know: java, python, c#, js, html, css
 in progress: typescript, react
 
-![image](https://github.com/user-attachments/assets/fa1a4cce-0391-4ae7-bd6d-8f2bc22a9e69)
+https://i.pinimg.com/originals/a5/8d/69/a58d69c83ef14e19a221d15e3510a237.gif
